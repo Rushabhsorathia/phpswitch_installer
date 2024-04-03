@@ -1,13 +1,13 @@
 # PHP Switch Installer
 
-This repository contains an installer for the PHP version switcher script [phpswitch.sh](https://github.com/RushabhS-RSW/phpswitch).
+This repository contains an installer for the PHP version switcher script [phpswitch.sh](https://github.com/Rushabhsorathia/phpswitch).
 
 ## Installation
 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/RushabhS-RSW/phpswitch_installer.git
+    git clone https://github.com/Rushabhsorathia/phpswitch_installer.git
     ```
 
 2. Change to the installer directory:
@@ -28,7 +28,7 @@ This repository contains an installer for the PHP version switcher script [phpsw
     ./install_phpswitch.sh
     ```
 
-The installer will download the [phpswitch.sh](https://github.com/RushabhS-RSW/phpswitch/blob/main/phpswitch.sh) script from the official repository, make it executable, and create a symbolic link for easy usage.
+The installer will download the [phpswitch.sh](https://github.com/Rushabhsorathia/phpswitch/blob/main/phpswitch.sh) script from the official repository, make it executable, and create a symbolic link for easy usage.
 
 ## Usage
 
