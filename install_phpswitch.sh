@@ -1,8 +1,8 @@
 #!/bin/bash
 install_dir="/usr/local/bin"
-script_name="phpswitch.sh"
+script_name="phpswitch.sh.x"
 command_name="phpswitch"
-repo_raw_url="https://raw.githubusercontent.com/Rushabhsorathia/phpswitch/master/phpswitch.sh"
+repo_raw_url="https://raw.githubusercontent.com/Rushabhsorathia/phpswitch/master/phpswitch.sh.x"
 
 if [ -e "$install_dir/$script_name" ]; then
     # Remove the existing script file
